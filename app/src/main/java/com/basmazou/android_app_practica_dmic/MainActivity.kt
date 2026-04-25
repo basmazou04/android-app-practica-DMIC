@@ -14,7 +14,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.basmazou.android_app_practica_dmic.ui.theme.AndroidapppracticaDMICTheme
 
 
-//canvi en local
+//nou canvi en local en la nova branca
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
